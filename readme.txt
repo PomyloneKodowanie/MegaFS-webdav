@@ -1,4 +1,5 @@
-Servlet that allows automatic uploading and downloading(only after requesting the specific file) files from multiple mega accounts in one folder, does NOT work with folders or existing uploads not updated as of 07/08/2021
+Servlet that allows automatic uploading and downloading(only after requesting the specific file)
+files from multiple mega accounts in one folder, does NOT work with folders or existing uploads not updated as of 07/08/2021
 
 
 
